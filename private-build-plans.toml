@@ -1,0 +1,205 @@
+# Iosevka Lit [Normal; Sans Serif]
+[buildPlans.iosevka-lit]
+family = "Iosevka Lit"
+desc = "Normal Spacing, Sans Serif"
+spacing = "normal"
+serifs = "sans"
+no-cv-ss = true
+export-glyph-names = true
+
+[buildPlans.iosevka-lit.variants]
+inherits = "ss04"
+apl-form = "enable"
+
+[buildPlans.iosevka-lit.variants.design]
+capital-a = "straight-serifless"
+capital-b = "standard-serifless"
+capital-c = "serifless"
+capital-g = "toothless-corner-serifless-hooked"
+capital-i = "serifed"
+capital-j = "serifless"
+capital-k = "straight-serifless"
+capital-q = "curly-tailed"
+capital-w = "straight-serifless"
+a = "double-storey-serifless"
+b = "toothed-serifless"
+e = "flat-crossbar"
+f = "flat-hook-serifless"
+g = "single-storey-serifless"
+i = "zshaped"
+j = "flat-hook-serifed"
+k = "straight-serifless"
+m = "serifless"
+p = "eared-serifless"
+y = "straight-serifless"
+zero = "oval-dotted"
+one = "no-base"
+two = "straight-neck"
+three = "two-arcs"
+four = "closed"
+five = "upright-arched"
+six = "straight-bar"
+seven = "straight-serifless"
+eight = "two-circles"
+nine = "straight-bar"
+punctuation-dot = "round"
+tilde = "low"
+asterisk = "hex-low"
+underscore = "above-baseline"
+caret = "medium"
+paren = "normal"
+guillemet = "straight"
+number-sign = "upright"
+ampersand = "closed"
+at = "fourfold"
+dollar = "through-cap"
+percent = "rings-continuous-slash"
+question = "smooth"
+pilcrow = "high"
+lig-ltgteq = "slanted"
+lig-neq = "more-slanted"
+lig-hyphen-chain = "with-notch"
+lig-double-arrow-bar = "without-notch"
+lig-single-arrow-bar = "without-notch"
+
+
+# Iosevka Lit Terminal [Sans Serif]
+[buildPlans.iosevka-lit-terminal]
+family = "Iosevka Lit Terminal"
+desc = "Terminal Spacing, Sans Serif"
+spacing = "terminal"
+serifs = "sans"
+no-cv-ss = true
+export-glyph-names = true
+
+[buildPlans.iosevka-lit-terminal.variants]
+inherits = "ss04"
+apl-form = "enable"
+
+[buildPlans.iosevka-lit-terminal.variants.design]
+capital-a = "straight-serifless"
+capital-b = "standard-serifless"
+capital-c = "serifless"
+capital-g = "toothless-corner-serifless-hooked"
+capital-i = "serifed"
+capital-j = "serifless"
+capital-k = "straight-serifless"
+capital-q = "curly-tailed"
+capital-w = "straight-serifless"
+a = "double-storey-serifless"
+b = "toothed-serifless"
+e = "flat-crossbar"
+f = "flat-hook-serifless"
+g = "single-storey-serifless"
+i = "zshaped"
+j = "flat-hook-serifed"
+k = "straight-serifless"
+m = "serifless"
+p = "eared-serifless"
+y = "straight-serifless"
+zero = "oval-dotted"
+one = "no-base"
+two = "straight-neck"
+three = "two-arcs"
+four = "closed"
+five = "upright-arched"
+six = "straight-bar"
+seven = "straight-serifless"
+eight = "two-circles"
+nine = "straight-bar"
+punctuation-dot = "round"
+tilde = "low"
+asterisk = "hex-low"
+underscore = "above-baseline"
+caret = "medium"
+paren = "normal"
+guillemet = "straight"
+number-sign = "upright"
+ampersand = "closed"
+at = "fourfold"
+dollar = "through-cap"
+percent = "rings-continuous-slash"
+question = "smooth"
+pilcrow = "high"
+lig-ltgteq = "slanted"
+lig-neq = "more-slanted"
+lig-hyphen-chain = "with-notch"
+lig-double-arrow-bar = "without-notch"
+lig-single-arrow-bar = "without-notch"
+
+
+# Iosevka Lit Serif [Slab Serif, Normal]
+[buildPlans.iosevka-lit-serif]
+family = "Iosevka Lit Serif"
+desc = "Normal Spacing, Slab Serif"
+spacing = "normal"
+serifs = "slab"
+no-cv-ss = true
+export-glyph-names = true
+
+[buildPlans.iosevka-lit-serif.variants]
+inherits = "ss04"
+apl-form = "enable"
+
+[buildPlans.iosevka-lit-serif.variants.design]
+capital-a = "straight-serifless"
+capital-b = "standard-serifless"
+capital-c = "serifless"
+capital-g = "toothless-corner-serifless-hooked"
+capital-i = "serifed"
+capital-j = "serifless"
+capital-k = "straight-serifless"
+capital-q = "curly-tailed"
+capital-w = "straight-serifless"
+a = "double-storey-serifless"
+b = "toothed-serifless"
+e = "flat-crossbar"
+f = "flat-hook-serifless"
+g = "single-storey-serifless"
+i = "zshaped"
+j = "flat-hook-serifed"
+k = "straight-serifless"
+m = "serifless"
+p = "eared-serifless"
+y = "straight-serifless"
+zero = "oval-dotted"
+one = "no-base"
+two = "straight-neck"
+three = "two-arcs"
+four = "closed"
+five = "upright-arched"
+six = "straight-bar"
+seven = "straight-serifless"
+eight = "two-circles"
+nine = "straight-bar"
+punctuation-dot = "round"
+tilde = "low"
+asterisk = "hex-low"
+underscore = "above-baseline"
+caret = "medium"
+paren = "normal"
+guillemet = "straight"
+number-sign = "upright"
+ampersand = "closed"
+at = "fourfold"
+dollar = "through-cap"
+percent = "rings-continuous-slash"
+question = "smooth"
+pilcrow = "high"
+lig-ltgteq = "slanted"
+lig-neq = "more-slanted"
+lig-hyphen-chain = "with-notch"
+lig-double-arrow-bar = "without-notch"
+lig-single-arrow-bar = "without-notch"
+
+
+###################################################################################################
+# Compatibility Ligatures
+# Certain applications like Emacs does not support proper programming liagtures provided by
+# OpenType, but can support ligatures provided by PUA codepoints. Therefore you can edit the
+# following section to build PUA characters that are generated from the OpenType ligatures.
+
+# [[buildPlans.iosevka-custom.compatibility-ligatures]]
+# unicode = 57600 # 0xE100
+# featureTag = 'calt'
+# sequence = '<*>'
